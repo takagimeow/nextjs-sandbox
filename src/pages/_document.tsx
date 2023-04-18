@@ -1,5 +1,5 @@
-import StyledComponentsRegistry from '@/components/functional/StyledComponentsRegistry'
 import { Html, Head, Main, NextScript } from 'next/document'
+import StyledComponentsRegistry from '@/components/functional/StyledComponentsRegistry'
 
 export default function Document() {
   return (
